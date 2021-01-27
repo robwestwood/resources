@@ -60,3 +60,7 @@ No warranty implied. YMMV.
 - [Bootstrap](./web/bootstrap "Bootstrap resources")
 - [Markdown](./web/markdown "Markdown resources")
 - [OData](./web/odata "OData resources")
+
+### Potentially Useful Tool & Services
+
+- [Potentially Useful Tools & Services](./potentially-useful/tools-services)
