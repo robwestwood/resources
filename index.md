@@ -34,11 +34,13 @@ No warranty implied. YMMV.
 ### Other Tools
 
 - [Packer](./tools/packer "Packer resources")
+- [Text Editors](./tools/text-editors "Text editor resources")
 
 ### Linux
 
 - [Bash Shell](./linux/bash "Bash resources")
 - [btrfs File System](./linux/btrfs "btrfs resources")
+- [Commands](./linux/commands "Various useful commands")
 - [Other Linux Resources](./linux/other "Linux resources")
 
 ### Virtualisation

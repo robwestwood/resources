@@ -3,11 +3,27 @@
 ### Knowledge Management
 
 - [Pinboard](http://pinboard.in/) - social bookmarking site; also inlcudes archiving (paid)
+- [Building A Zettelkasten In Typora](https://medium.com/work-futures/building-a-zettelkasten-in-typora-f22857c98301) - A ‘system of knowledge’ based on an infinity of markdown files
+- [Boostnote](https://www.omgubuntu.co.uk/2017/04/boostnote-open-source-note-taking-app-designed-coders) - Boostnote is an open-source note taking app designed for programmers
 
 ### Synchronisation and Backup
 
 - [rrb](https://github.com/def-/rrb) - a simple set of scripts to take backups via a backup server
 - [rclone](https://rclone.org/) - syncs files to cloud storage
+
+### Task Management
+
+- [List on GetApp](https://www.getapp.com/project-management-planning-software/a/hitask/alternatives/?pricingcategories_slug%5B%5D=free&oses_slug%5B%5D=android)
+- [List on Capterra](https://blog.capterra.com/free-task-management-software/)
+- [List on TechRadar](https://www.techradar.com/uk/best/best-task-management-apps)
+- [GTD list on Capterra](https://blog.capterra.com/the-top-6-free-getting-things-done-software/)
+- [Joplin Alternatives](https://alternativeto.net/software/joplin/)
+- [List on PAT Research](https://www.predictiveanalyticstoday.com/top-free-premium-task-management-software/)
+
+
+### File Synchronisation
+
+- [Seafile](https://www.seafile.com/en/features/)
 
 ### Smart Assistants
 
