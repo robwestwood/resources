@@ -11,6 +11,10 @@
 - [rrb](https://github.com/def-/rrb) - a simple set of scripts to take backups via a backup server
 - [rclone](https://rclone.org/) - syncs files to cloud storage
 
+### Source Code Utilities
+
+- [Sourcegraph service](https://about.sourcegraph.com/)
+
 ### Task Management
 
 - [List on GetApp](https://www.getapp.com/project-management-planning-software/a/hitask/alternatives/?pricingcategories_slug%5B%5D=free&oses_slug%5B%5D=android)
@@ -24,6 +28,10 @@
 ### File Synchronisation
 
 - [Seafile](https://www.seafile.com/en/features/)
+
+### Desktop Software
+
+- [Ragtime](http://www.ragtime.de/start.html) - frame based page layout
 
 ### Smart Assistants
 

@@ -13,3 +13,9 @@ git repack -a -d --depth=250 --window=250
 ```
 
 (Thanks to [akluth](http://stackoverflow.com/users/1616951/akluth)'s answer on [Convert Mercurial project to Git](http://stackoverflow.com/questions/16037787/convert-mercurial-project-to-git)) and Linus Torvalds' mail quoted in [this post](https://metalinguist.wordpress.com/2007/12/06/the-woes-of-git-gc-aggressive-and-how-git-deltas-work/) for this solution).
+
+
+### Controlling SSH key file
+
+- [Select Private key to use with `git`](https://stackoverflow.com/questions/6688655/select-private-key-to-use-with-git)
+- [Specify an SSJ key for git push for a given domain](https://stackoverflow.com/questions/7927750/specify-an-ssh-key-for-git-push-for-a-given-domain)
