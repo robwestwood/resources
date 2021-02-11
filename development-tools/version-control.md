@@ -1,5 +1,10 @@
 ## `git`
 
+### Commands
+
+- [Undoing Changes in Git](https://pbs.twimg.com/media/B6G1QPnCEAANZCF.png)
+- [`git-worktree`](https://git-scm.com/docs/git-worktree) - Manage multiple worktrees attached to teh same repository
+
 ### Converting a Mercurial (`hg`) Repository to `git`
 
 ```sh

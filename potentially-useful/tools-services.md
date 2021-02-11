@@ -4,9 +4,13 @@
 
 - [Pinboard](http://pinboard.in/) - social bookmarking site; also inlcudes archiving (paid)
 - [Building A Zettelkasten In Typora](https://medium.com/work-futures/building-a-zettelkasten-in-typora-f22857c98301) - A ‘system of knowledge’ based on an infinity of markdown files
+- [Zettelkasten](https://zettelkasten.de/posts/overview/)
 - [Boostnote](https://www.omgubuntu.co.uk/2017/04/boostnote-open-source-note-taking-app-designed-coders) - Boostnote is an open-source note taking app designed for programmers
 - [Margin](https://margin.love/#/?id=philosophy) - "The plain text language for list-making, note-taking, and to-dos."
 - [Notion](https://www.notion.so/product) - collaboratrive workspace
+- [raindrop.io](https://raindrop.io) - bookmark manager
+- [Foam](https://foambubble.github.io/foam/) - Personal knowledge management and sharing system
+
 
 ### Synchronisation and Backup
 
@@ -36,10 +40,13 @@
 ### Desktop Software
 
 - [Ragtime](http://www.ragtime.de/start.html) - frame based page layout
+- [Entangle](https://entangle-photo.org/) - tethered camera control and capture for Linux
+- [Darktable](https://www.darktable.org/) - opeen source photography workflow with RAW support
 
 #### Collaboration
 
 - [Miro](https://clickup.com) - online whiteboard
+- [Twist](https://twistapp.com/home) - team communication from Doist
 
 ### Smart Assistants
 
