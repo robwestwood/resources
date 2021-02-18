@@ -43,6 +43,10 @@ No warranty implied. YMMV.
 - [Commands](./linux/commands "Various useful commands")
 - [Other Linux Resources](./linux/other "Linux resources")
 
+### Windows
+
+- [PowerShell](./windows/powershell "PowerShell resources")
+
 ### Virtualisation
 
 - [VMWare Links](./virtualisation-and-containerisation/vmware "VMWare Resources")
