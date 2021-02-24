@@ -61,6 +61,7 @@
 ### Hardware
 
 - [Fluxbox](http://cowlark.com/fluxengine/) and [Greaseweazle](https://github.com/keirf/Greaseweazle/wiki) - read various floppy disc formats, including Amiga
+- [How to hook up retro consoles to High-Definition TVs](https://retrogamingcables.co.uk/How-to-hook-up-retro-consoles-to-High-Definition-TVs-via-HDMI)
 
 
 ### Re-imagining the Internet

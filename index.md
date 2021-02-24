@@ -67,6 +67,10 @@ No warranty implied. YMMV.
 - [Markdown](./web/markdown "Markdown resources")
 - [OData](./web/odata "OData resources")
 
+### Networking
+
+- [WiFi](./networking/wifi "WiFi resources)
+
 ### Potentially Useful Tool & Services
 
 - [Potentially Useful Tools & Services](./potentially-useful/tools-services)
