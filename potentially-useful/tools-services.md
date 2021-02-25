@@ -69,4 +69,6 @@
 - [Alternative Internet](https://github.com/redecentralize/alternative-internet#messaging) - interesting things for a re-decentralised Internet
 - [Open Collective](https://docs.opencollective.com/help/about/introduction)
 - [Scuttlebutt Socail Network](https://staltz.com/an-off-grid-social-network.html) or their [home page](https://scuttlebutt.nz)
+- [The MALT Project](https://malt.web.cern.ch/malt/global/malt-table/) - Services and featire replacement investigations from CERN
+- [@adlrocha - What if we had Local-First Software?](https://adlrocha.substack.com/p/adlrocha-what-if-we-had-local-first)
 
