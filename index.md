@@ -69,7 +69,7 @@ No warranty implied. YMMV.
 
 ### Networking
 
-- [WiFi](./networking/wifi "WiFi resources)
+- [WiFi](./networking/wifi "WiFi resources")
 
 ### Potentially Useful Tool & Services
 
