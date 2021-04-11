@@ -31,6 +31,7 @@
 - [List on PAT Research](https://www.predictiveanalyticstoday.com/top-free-premium-task-management-software/)
 - [Whimsical Sticky Notes](https://whimsical.com/sticky-notes?ref=tsa)
 - [ClickUp](https://clickup.com)
+- [Focalboard](https://www.focalboard.com/)
 
 
 ### File Synchronisation
